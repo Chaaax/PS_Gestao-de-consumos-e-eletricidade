@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjetoPS_Sprint1-2-3-4
 
 # ☀Sistema de Gestão de Produção e Créditos de Energia Solar
@@ -47,3 +48,7 @@ npm install
 npm start
 node src/index.js
 
+=======
+# PS_Gestao-de-consumos-e-eletricidade
+Software de gestão de consumos e produção de eletricidade
+>>>>>>> 7f35e1eb0e6e33ac0fbb9fd922f90b6598f1768c
