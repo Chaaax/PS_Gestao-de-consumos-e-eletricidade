@@ -1,0 +1,10402 @@
+[
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 90,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 180,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 270,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 360,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 450,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 540,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 630,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 720,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 810,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 900,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 990,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1080,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1170,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1260,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 349,
+    "excedente": 44,
+    "acumulado": 1304,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1394,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1484,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 431,
+    "excedente": 0,
+    "acumulado": 1484,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 329,
+    "excedente": 167,
+    "acumulado": 1651,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 520,
+    "consumido": 430,
+    "excedente": 90,
+    "acumulado": 1741,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 409,
+    "excedente": 22,
+    "acumulado": 1763,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 287,
+    "excedente": 45,
+    "acumulado": 1808,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 280,
+    "excedente": 176,
+    "acumulado": 1984,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 476,
+    "consumido": 301,
+    "excedente": 175,
+    "acumulado": 2159,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 326,
+    "excedente": 15,
+    "acumulado": 2174,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 307,
+    "excedente": 37,
+    "acumulado": 2211,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 327,
+    "consumido": 265,
+    "excedente": 62,
+    "acumulado": 2273,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 302,
+    "excedente": 126,
+    "acumulado": 2399,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 343,
+    "excedente": 124,
+    "acumulado": 2523,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 287,
+    "excedente": 185,
+    "acumulado": 2708,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 359,
+    "excedente": 0,
+    "acumulado": 2708,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 411,
+    "excedente": 0,
+    "acumulado": 2708,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 449,
+    "excedente": 0,
+    "acumulado": 2708,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 364,
+    "excedente": 0,
+    "acumulado": 2708,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 254,
+    "excedente": 196,
+    "acumulado": 2904,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 310,
+    "excedente": 180,
+    "acumulado": 3084,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 266,
+    "excedente": 189,
+    "acumulado": 3273,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 290,
+    "excedente": 196,
+    "acumulado": 3469,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 476,
+    "consumido": 442,
+    "excedente": 34,
+    "acumulado": 3503,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 325,
+    "consumido": 284,
+    "excedente": 41,
+    "acumulado": 3544,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 279,
+    "excedente": 136,
+    "acumulado": 3680,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 367,
+    "excedente": 11,
+    "acumulado": 3691,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 446,
+    "consumido": 423,
+    "excedente": 23,
+    "acumulado": 3714,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 424,
+    "excedente": 56,
+    "acumulado": 3770,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 492,
+    "consumido": 394,
+    "excedente": 98,
+    "acumulado": 3868,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 355,
+    "excedente": 33,
+    "acumulado": 3901,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 487,
+    "consumido": 306,
+    "excedente": 181,
+    "acumulado": 4082,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 326,
+    "excedente": 121,
+    "acumulado": 4203,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 4203,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 323,
+    "excedente": 92,
+    "acumulado": 4295,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 4295,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 4295,
+    "data": "2025-06-02"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 378,
+    "excedente": 87,
+    "acumulado": 4382,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 353,
+    "excedente": 0,
+    "acumulado": 4382,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 402,
+    "excedente": 40,
+    "acumulado": 4422,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 354,
+    "excedente": 140,
+    "acumulado": 4562,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 268,
+    "excedente": 170,
+    "acumulado": 4732,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 410,
+    "excedente": 78,
+    "acumulado": 4810,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 411,
+    "consumido": 375,
+    "excedente": 36,
+    "acumulado": 4846,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 301,
+    "excedente": 42,
+    "acumulado": 4888,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 4888,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 261,
+    "excedente": 163,
+    "acumulado": 5051,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 433,
+    "excedente": 0,
+    "acumulado": 5051,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 425,
+    "excedente": 61,
+    "acumulado": 5112,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 288,
+    "excedente": 107,
+    "acumulado": 5219,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 286,
+    "excedente": 98,
+    "acumulado": 5317,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 405,
+    "consumido": 386,
+    "excedente": 19,
+    "acumulado": 5336,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 457,
+    "consumido": 296,
+    "excedente": 161,
+    "acumulado": 5497,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 304,
+    "excedente": 140,
+    "acumulado": 5637,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 345,
+    "excedente": 51,
+    "acumulado": 5688,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 418,
+    "excedente": 0,
+    "acumulado": 5688,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 342,
+    "excedente": 6,
+    "acumulado": 5694,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 261,
+    "excedente": 58,
+    "acumulado": 5752,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 305,
+    "excedente": 15,
+    "acumulado": 5767,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 5767,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 426,
+    "consumido": 414,
+    "excedente": 12,
+    "acumulado": 5779,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 257,
+    "excedente": 172,
+    "acumulado": 5951,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 252,
+    "excedente": 112,
+    "acumulado": 6063,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 441,
+    "excedente": 0,
+    "acumulado": 6063,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 404,
+    "excedente": 0,
+    "acumulado": 6063,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 305,
+    "excedente": 59,
+    "acumulado": 6122,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 344,
+    "excedente": 129,
+    "acumulado": 6251,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 430,
+    "consumido": 417,
+    "excedente": 13,
+    "acumulado": 6264,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 439,
+    "excedente": 0,
+    "acumulado": 6264,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 274,
+    "excedente": 147,
+    "acumulado": 6411,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 471,
+    "consumido": 375,
+    "excedente": 96,
+    "acumulado": 6507,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 6507,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 347,
+    "excedente": 19,
+    "acumulado": 6526,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 304,
+    "excedente": 120,
+    "acumulado": 6646,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 462,
+    "consumido": 335,
+    "excedente": 127,
+    "acumulado": 6773,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 381,
+    "consumido": 368,
+    "excedente": 13,
+    "acumulado": 6786,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 320,
+    "excedente": 58,
+    "acumulado": 6844,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 343,
+    "excedente": 88,
+    "acumulado": 6932,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 403,
+    "excedente": 26,
+    "acumulado": 6958,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 286,
+    "excedente": 115,
+    "acumulado": 7073,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 285,
+    "excedente": 18,
+    "acumulado": 7091,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 489,
+    "consumido": 335,
+    "excedente": 154,
+    "acumulado": 7245,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 394,
+    "excedente": 15,
+    "acumulado": 7260,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 353,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 7260,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 459,
+    "consumido": 406,
+    "excedente": 53,
+    "acumulado": 7313,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 331,
+    "excedente": 136,
+    "acumulado": 7449,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 433,
+    "consumido": 251,
+    "excedente": 182,
+    "acumulado": 7631,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 265,
+    "excedente": 91,
+    "acumulado": 7722,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 325,
+    "consumido": 305,
+    "excedente": 20,
+    "acumulado": 7742,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 451,
+    "consumido": 281,
+    "excedente": 170,
+    "acumulado": 7912,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 322,
+    "consumido": 324,
+    "excedente": 0,
+    "acumulado": 7912,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 291,
+    "excedente": 48,
+    "acumulado": 7960,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 353,
+    "excedente": 135,
+    "acumulado": 8095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 399,
+    "excedente": 51,
+    "acumulado": 8146,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 269,
+    "excedente": 36,
+    "acumulado": 8182,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 409,
+    "excedente": 25,
+    "acumulado": 8207,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 280,
+    "excedente": 25,
+    "acumulado": 8232,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 499,
+    "consumido": 355,
+    "excedente": 144,
+    "acumulado": 8376,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 255,
+    "excedente": 194,
+    "acumulado": 8570,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 440,
+    "excedente": 0,
+    "acumulado": 8570,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 362,
+    "excedente": 82,
+    "acumulado": 8652,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 322,
+    "excedente": 120,
+    "acumulado": 8772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 306,
+    "excedente": 134,
+    "acumulado": 8906,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 365,
+    "excedente": 31,
+    "acumulado": 8937,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 345,
+    "excedente": 3,
+    "acumulado": 8940,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 499,
+    "consumido": 389,
+    "excedente": 110,
+    "acumulado": 9050,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 293,
+    "excedente": 96,
+    "acumulado": 9146,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 381,
+    "excedente": 34,
+    "acumulado": 9180,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 287,
+    "excedente": 197,
+    "acumulado": 9377,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 306,
+    "consumido": 277,
+    "excedente": 29,
+    "acumulado": 9406,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 272,
+    "excedente": 164,
+    "acumulado": 9570,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 476,
+    "consumido": 436,
+    "excedente": 40,
+    "acumulado": 9610,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 463,
+    "consumido": 324,
+    "excedente": 139,
+    "acumulado": 9749,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 304,
+    "excedente": 86,
+    "acumulado": 9835,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 363,
+    "excedente": 46,
+    "acumulado": 9881,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 379,
+    "excedente": 0,
+    "acumulado": 9881,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 297,
+    "excedente": 33,
+    "acumulado": 9914,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 286,
+    "excedente": 63,
+    "acumulado": 9977,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 254,
+    "excedente": 166,
+    "acumulado": 10143,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 331,
+    "excedente": 154,
+    "acumulado": 10297,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 313,
+    "excedente": 29,
+    "acumulado": 10326,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 478,
+    "consumido": 383,
+    "excedente": 95,
+    "acumulado": 10421,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 280,
+    "excedente": 95,
+    "acumulado": 10516,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 487,
+    "consumido": 422,
+    "excedente": 65,
+    "acumulado": 10581,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 275,
+    "excedente": 67,
+    "acumulado": 10648,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 290,
+    "excedente": 165,
+    "acumulado": 10813,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 422,
+    "excedente": 14,
+    "acumulado": 10827,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 10827,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 10827,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 336,
+    "consumido": 274,
+    "excedente": 62,
+    "acumulado": 10889,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 281,
+    "excedente": 143,
+    "acumulado": 11032,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 336,
+    "consumido": 329,
+    "excedente": 7,
+    "acumulado": 11039,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 372,
+    "excedente": 59,
+    "acumulado": 11098,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 464,
+    "consumido": 277,
+    "excedente": 187,
+    "acumulado": 11285,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 310,
+    "excedente": 84,
+    "acumulado": 11369,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 294,
+    "excedente": 63,
+    "acumulado": 11432,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 375,
+    "excedente": 57,
+    "acumulado": 11489,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 298,
+    "excedente": 42,
+    "acumulado": 11531,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 337,
+    "excedente": 86,
+    "acumulado": 11617,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 366,
+    "excedente": 14,
+    "acumulado": 11631,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 398,
+    "excedente": 15,
+    "acumulado": 11646,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 297,
+    "excedente": 77,
+    "acumulado": 11723,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 369,
+    "excedente": 79,
+    "acumulado": 11802,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 476,
+    "consumido": 305,
+    "excedente": 171,
+    "acumulado": 11973,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 332,
+    "excedente": 46,
+    "acumulado": 12019,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 462,
+    "consumido": 389,
+    "excedente": 73,
+    "acumulado": 12092,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 253,
+    "excedente": 213,
+    "acumulado": 12305,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 276,
+    "excedente": 64,
+    "acumulado": 12369,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 255,
+    "excedente": 59,
+    "acumulado": 12428,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 264,
+    "excedente": 192,
+    "acumulado": 12620,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 394,
+    "excedente": 0,
+    "acumulado": 12620,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 417,
+    "excedente": 0,
+    "acumulado": 12620,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 253,
+    "excedente": 217,
+    "acumulado": 12837,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 327,
+    "consumido": 260,
+    "excedente": 67,
+    "acumulado": 12904,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 351,
+    "excedente": 17,
+    "acumulado": 12921,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 464,
+    "consumido": 414,
+    "excedente": 50,
+    "acumulado": 12971,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 309,
+    "excedente": 4,
+    "acumulado": 12975,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 280,
+    "excedente": 121,
+    "acumulado": 13096,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 405,
+    "excedente": 91,
+    "acumulado": 13187,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 347,
+    "excedente": 0,
+    "acumulado": 13187,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 279,
+    "excedente": 125,
+    "acumulado": 13312,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 262,
+    "excedente": 150,
+    "acumulado": 13462,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 262,
+    "excedente": 220,
+    "acumulado": 13682,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 282,
+    "excedente": 183,
+    "acumulado": 13865,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 13865,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 253,
+    "excedente": 67,
+    "acumulado": 13932,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 417,
+    "excedente": 0,
+    "acumulado": 13932,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 478,
+    "consumido": 399,
+    "excedente": 79,
+    "acumulado": 14011,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 493,
+    "consumido": 349,
+    "excedente": 144,
+    "acumulado": 14155,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 403,
+    "consumido": 380,
+    "excedente": 23,
+    "acumulado": 14178,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 286,
+    "excedente": 46,
+    "acumulado": 14224,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 328,
+    "excedente": 84,
+    "acumulado": 14308,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 314,
+    "excedente": 43,
+    "acumulado": 14351,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 402,
+    "consumido": 413,
+    "excedente": 0,
+    "acumulado": 14351,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 276,
+    "excedente": 132,
+    "acumulado": 14483,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 364,
+    "excedente": 0,
+    "acumulado": 14483,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 256,
+    "excedente": 165,
+    "acumulado": 14648,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 332,
+    "excedente": 62,
+    "acumulado": 14710,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 14710,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 422,
+    "excedente": 0,
+    "acumulado": 14710,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 264,
+    "excedente": 104,
+    "acumulado": 14814,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 326,
+    "consumido": 370,
+    "excedente": 0,
+    "acumulado": 14814,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 445,
+    "excedente": 0,
+    "acumulado": 14814,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 284,
+    "excedente": 210,
+    "acumulado": 15024,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 430,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 15024,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 255,
+    "excedente": 125,
+    "acumulado": 15149,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 414,
+    "excedente": 59,
+    "acumulado": 15208,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 327,
+    "consumido": 309,
+    "excedente": 18,
+    "acumulado": 15226,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 415,
+    "excedente": 27,
+    "acumulado": 15253,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 376,
+    "excedente": 55,
+    "acumulado": 15308,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 394,
+    "excedente": 12,
+    "acumulado": 15320,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 340,
+    "excedente": 1,
+    "acumulado": 15321,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 262,
+    "excedente": 208,
+    "acumulado": 15529,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 317,
+    "consumido": 300,
+    "excedente": 17,
+    "acumulado": 15546,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 433,
+    "excedente": 0,
+    "acumulado": 15546,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 469,
+    "consumido": 272,
+    "excedente": 197,
+    "acumulado": 15743,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 352,
+    "excedente": 0,
+    "acumulado": 15743,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 479,
+    "consumido": 441,
+    "excedente": 38,
+    "acumulado": 15781,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 381,
+    "excedente": 99,
+    "acumulado": 15880,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 251,
+    "excedente": 239,
+    "acumulado": 16119,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 291,
+    "excedente": 130,
+    "acumulado": 16249,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 376,
+    "excedente": 0,
+    "acumulado": 16249,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 441,
+    "excedente": 0,
+    "acumulado": 16249,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 423,
+    "excedente": 26,
+    "acumulado": 16275,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 382,
+    "excedente": 0,
+    "acumulado": 16275,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 419,
+    "consumido": 312,
+    "excedente": 107,
+    "acumulado": 16382,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 262,
+    "excedente": 42,
+    "acumulado": 16424,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 250,
+    "excedente": 104,
+    "acumulado": 16528,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 377,
+    "excedente": 24,
+    "acumulado": 16552,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 315,
+    "consumido": 413,
+    "excedente": 0,
+    "acumulado": 16552,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 459,
+    "consumido": 326,
+    "excedente": 133,
+    "acumulado": 16685,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 315,
+    "consumido": 299,
+    "excedente": 16,
+    "acumulado": 16701,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 292,
+    "excedente": 203,
+    "acumulado": 16904,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 413,
+    "excedente": 59,
+    "acumulado": 16963,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 431,
+    "excedente": 0,
+    "acumulado": 16963,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 397,
+    "excedente": 0,
+    "acumulado": 16963,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 16963,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 479,
+    "consumido": 278,
+    "excedente": 201,
+    "acumulado": 17164,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 359,
+    "excedente": 0,
+    "acumulado": 17164,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 351,
+    "excedente": 48,
+    "acumulado": 17212,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 365,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 17212,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 279,
+    "excedente": 77,
+    "acumulado": 17289,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 308,
+    "excedente": 186,
+    "acumulado": 17475,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 444,
+    "excedente": 0,
+    "acumulado": 17475,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 498,
+    "consumido": 397,
+    "excedente": 101,
+    "acumulado": 17576,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 345,
+    "excedente": 30,
+    "acumulado": 17606,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 429,
+    "excedente": 29,
+    "acumulado": 17635,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 355,
+    "excedente": 112,
+    "acumulado": 17747,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 298,
+    "excedente": 79,
+    "acumulado": 17826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 434,
+    "excedente": 0,
+    "acumulado": 17826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 415,
+    "excedente": 0,
+    "acumulado": 17826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 324,
+    "excedente": 96,
+    "acumulado": 17922,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 260,
+    "excedente": 195,
+    "acumulado": 18117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 326,
+    "excedente": 64,
+    "acumulado": 18181,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 318,
+    "excedente": 126,
+    "acumulado": 18307,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 498,
+    "consumido": 312,
+    "excedente": 186,
+    "acumulado": 18493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 383,
+    "excedente": 101,
+    "acumulado": 18594,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 318,
+    "consumido": 409,
+    "excedente": 0,
+    "acumulado": 18594,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 339,
+    "excedente": 0,
+    "acumulado": 18594,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 281,
+    "excedente": 119,
+    "acumulado": 18713,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 444,
+    "excedente": 0,
+    "acumulado": 18713,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 392,
+    "excedente": 51,
+    "acumulado": 18764,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 299,
+    "excedente": 32,
+    "acumulado": 18796,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 317,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 18796,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 284,
+    "excedente": 107,
+    "acumulado": 18903,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 475,
+    "consumido": 436,
+    "excedente": 39,
+    "acumulado": 18942,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 443,
+    "excedente": 5,
+    "acumulado": 18947,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 492,
+    "consumido": 401,
+    "excedente": 91,
+    "acumulado": 19038,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 384,
+    "excedente": 54,
+    "acumulado": 19092,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 321,
+    "consumido": 262,
+    "excedente": 59,
+    "acumulado": 19151,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 398,
+    "excedente": 96,
+    "acumulado": 19247,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 291,
+    "excedente": 127,
+    "acumulado": 19374,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 463,
+    "consumido": 434,
+    "excedente": 29,
+    "acumulado": 19403,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 366,
+    "excedente": 40,
+    "acumulado": 19443,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 361,
+    "excedente": 83,
+    "acumulado": 19526,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 260,
+    "excedente": 40,
+    "acumulado": 19566,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 381,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 19566,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 312,
+    "excedente": 22,
+    "acumulado": 19588,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 266,
+    "excedente": 207,
+    "acumulado": 19795,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 317,
+    "consumido": 375,
+    "excedente": 0,
+    "acumulado": 19795,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 351,
+    "consumido": 393,
+    "excedente": 0,
+    "acumulado": 19795,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 370,
+    "excedente": 57,
+    "acumulado": 19852,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 297,
+    "excedente": 153,
+    "acumulado": 20005,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 351,
+    "excedente": 0,
+    "acumulado": 20005,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 426,
+    "consumido": 330,
+    "excedente": 96,
+    "acumulado": 20101,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 428,
+    "excedente": 26,
+    "acumulado": 20127,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 432,
+    "excedente": 0,
+    "acumulado": 20127,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 328,
+    "consumido": 445,
+    "excedente": 0,
+    "acumulado": 20127,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 350,
+    "excedente": 56,
+    "acumulado": 20183,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 254,
+    "excedente": 109,
+    "acumulado": 20292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 439,
+    "excedente": 17,
+    "acumulado": 20309,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 316,
+    "excedente": 139,
+    "acumulado": 20448,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 498,
+    "consumido": 288,
+    "excedente": 210,
+    "acumulado": 20658,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 298,
+    "excedente": 45,
+    "acumulado": 20703,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 369,
+    "excedente": 55,
+    "acumulado": 20758,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 311,
+    "excedente": 69,
+    "acumulado": 20827,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 446,
+    "consumido": 333,
+    "excedente": 113,
+    "acumulado": 20940,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 367,
+    "consumido": 413,
+    "excedente": 0,
+    "acumulado": 20940,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 352,
+    "excedente": 0,
+    "acumulado": 20940,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 345,
+    "excedente": 33,
+    "acumulado": 20973,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 312,
+    "consumido": 308,
+    "excedente": 4,
+    "acumulado": 20977,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 361,
+    "excedente": 120,
+    "acumulado": 21097,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 491,
+    "consumido": 354,
+    "excedente": 137,
+    "acumulado": 21234,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 383,
+    "excedente": 0,
+    "acumulado": 21234,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 265,
+    "excedente": 158,
+    "acumulado": 21392,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 401,
+    "excedente": 0,
+    "acumulado": 21392,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 338,
+    "excedente": 2,
+    "acumulado": 21394,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 409,
+    "excedente": 20,
+    "acumulado": 21414,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 408,
+    "excedente": 41,
+    "acumulado": 21455,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 437,
+    "excedente": 0,
+    "acumulado": 21455,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 392,
+    "consumido": 345,
+    "excedente": 47,
+    "acumulado": 21502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 341,
+    "excedente": 0,
+    "acumulado": 21502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 342,
+    "excedente": 90,
+    "acumulado": 21592,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 433,
+    "consumido": 337,
+    "excedente": 96,
+    "acumulado": 21688,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 375,
+    "excedente": 65,
+    "acumulado": 21753,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 425,
+    "consumido": 387,
+    "excedente": 38,
+    "acumulado": 21791,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 321,
+    "consumido": 281,
+    "excedente": 40,
+    "acumulado": 21831,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 439,
+    "consumido": 384,
+    "excedente": 55,
+    "acumulado": 21886,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 432,
+    "excedente": 56,
+    "acumulado": 21942,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 311,
+    "excedente": 132,
+    "acumulado": 22074,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 347,
+    "excedente": 133,
+    "acumulado": 22207,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 379,
+    "excedente": 0,
+    "acumulado": 22207,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 476,
+    "consumido": 392,
+    "excedente": 84,
+    "acumulado": 22291,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 302,
+    "excedente": 9,
+    "acumulado": 22300,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 380,
+    "excedente": 0,
+    "acumulado": 22300,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 294,
+    "excedente": 114,
+    "acumulado": 22414,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 261,
+    "excedente": 85,
+    "acumulado": 22499,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 352,
+    "excedente": 0,
+    "acumulado": 22499,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 392,
+    "excedente": 16,
+    "acumulado": 22515,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 306,
+    "excedente": 3,
+    "acumulado": 22518,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 328,
+    "consumido": 307,
+    "excedente": 21,
+    "acumulado": 22539,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 419,
+    "consumido": 363,
+    "excedente": 56,
+    "acumulado": 22595,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 411,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 22595,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 259,
+    "excedente": 41,
+    "acumulado": 22636,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 427,
+    "excedente": 0,
+    "acumulado": 22636,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 355,
+    "excedente": 0,
+    "acumulado": 22636,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 365,
+    "excedente": 0,
+    "acumulado": 22636,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 421,
+    "excedente": 0,
+    "acumulado": 22636,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 426,
+    "consumido": 294,
+    "excedente": 132,
+    "acumulado": 22768,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 441,
+    "consumido": 418,
+    "excedente": 23,
+    "acumulado": 22791,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 338,
+    "excedente": 4,
+    "acumulado": 22795,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 307,
+    "consumido": 337,
+    "excedente": 0,
+    "acumulado": 22795,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 270,
+    "excedente": 140,
+    "acumulado": 22935,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 397,
+    "consumido": 327,
+    "excedente": 70,
+    "acumulado": 23005,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 296,
+    "excedente": 33,
+    "acumulado": 23038,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 277,
+    "excedente": 188,
+    "acumulado": 23226,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 287,
+    "excedente": 22,
+    "acumulado": 23248,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 416,
+    "consumido": 361,
+    "excedente": 55,
+    "acumulado": 23303,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 296,
+    "excedente": 110,
+    "acumulado": 23413,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 383,
+    "excedente": 0,
+    "acumulado": 23413,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 335,
+    "excedente": 0,
+    "acumulado": 23413,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 273,
+    "excedente": 193,
+    "acumulado": 23606,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 256,
+    "excedente": 73,
+    "acumulado": 23679,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 341,
+    "excedente": 72,
+    "acumulado": 23751,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 313,
+    "excedente": 51,
+    "acumulado": 23802,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 453,
+    "consumido": 273,
+    "excedente": 180,
+    "acumulado": 23982,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 417,
+    "consumido": 296,
+    "excedente": 121,
+    "acumulado": 24103,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 346,
+    "excedente": 0,
+    "acumulado": 24103,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 424,
+    "excedente": 24,
+    "acumulado": 24127,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 337,
+    "excedente": 130,
+    "acumulado": 24257,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 347,
+    "consumido": 323,
+    "excedente": 24,
+    "acumulado": 24281,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 299,
+    "excedente": 144,
+    "acumulado": 24425,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 384,
+    "excedente": 90,
+    "acumulado": 24515,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 469,
+    "consumido": 304,
+    "excedente": 165,
+    "acumulado": 24680,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 491,
+    "consumido": 432,
+    "excedente": 59,
+    "acumulado": 24739,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 413,
+    "excedente": 71,
+    "acumulado": 24810,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 383,
+    "excedente": 0,
+    "acumulado": 24810,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 282,
+    "excedente": 195,
+    "acumulado": 25005,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 264,
+    "excedente": 90,
+    "acumulado": 25095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 436,
+    "excedente": 0,
+    "acumulado": 25095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 439,
+    "consumido": 343,
+    "excedente": 96,
+    "acumulado": 25191,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 306,
+    "consumido": 293,
+    "excedente": 13,
+    "acumulado": 25204,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 325,
+    "excedente": 84,
+    "acumulado": 25288,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 361,
+    "excedente": 120,
+    "acumulado": 25408,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 430,
+    "excedente": 0,
+    "acumulado": 25408,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 25408,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 312,
+    "excedente": 96,
+    "acumulado": 25504,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 358,
+    "excedente": 57,
+    "acumulado": 25561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 444,
+    "excedente": 0,
+    "acumulado": 25561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 405,
+    "consumido": 285,
+    "excedente": 120,
+    "acumulado": 25681,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 313,
+    "excedente": 41,
+    "acumulado": 25722,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 303,
+    "excedente": 90,
+    "acumulado": 25812,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 478,
+    "consumido": 330,
+    "excedente": 148,
+    "acumulado": 25960,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 306,
+    "excedente": 112,
+    "acumulado": 26072,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 423,
+    "excedente": 63,
+    "acumulado": 26135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 427,
+    "excedente": 0,
+    "acumulado": 26135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 350,
+    "excedente": 140,
+    "acumulado": 26275,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 319,
+    "excedente": 116,
+    "acumulado": 26391,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 443,
+    "excedente": 0,
+    "acumulado": 26391,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 374,
+    "excedente": 3,
+    "acumulado": 26394,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 279,
+    "excedente": 35,
+    "acumulado": 26429,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 26429,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 436,
+    "excedente": 20,
+    "acumulado": 26449,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 452,
+    "consumido": 267,
+    "excedente": 185,
+    "acumulado": 26634,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 287,
+    "excedente": 104,
+    "acumulado": 26738,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 270,
+    "excedente": 139,
+    "acumulado": 26877,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 429,
+    "excedente": 0,
+    "acumulado": 26877,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 463,
+    "consumido": 385,
+    "excedente": 78,
+    "acumulado": 26955,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 357,
+    "excedente": 13,
+    "acumulado": 26968,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 313,
+    "excedente": 78,
+    "acumulado": 27046,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 382,
+    "consumido": 321,
+    "excedente": 61,
+    "acumulado": 27107,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 462,
+    "consumido": 359,
+    "excedente": 103,
+    "acumulado": 27210,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 370,
+    "excedente": 102,
+    "acumulado": 27312,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 328,
+    "excedente": 85,
+    "acumulado": 27397,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 399,
+    "excedente": 39,
+    "acumulado": 27436,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 414,
+    "consumido": 270,
+    "excedente": 144,
+    "acumulado": 27580,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 431,
+    "excedente": 0,
+    "acumulado": 27580,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 382,
+    "excedente": 0,
+    "acumulado": 27580,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 305,
+    "excedente": 84,
+    "acumulado": 27664,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 384,
+    "excedente": 66,
+    "acumulado": 27730,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 428,
+    "excedente": 0,
+    "acumulado": 27730,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 345,
+    "excedente": 0,
+    "acumulado": 27730,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 369,
+    "consumido": 327,
+    "excedente": 42,
+    "acumulado": 27772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 363,
+    "excedente": 0,
+    "acumulado": 27772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 452,
+    "consumido": 377,
+    "excedente": 75,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 422,
+    "consumido": 422,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 440,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 321,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 403,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 306,
+    "consumido": 341,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 399,
+    "excedente": 0,
+    "acumulado": 27847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 255,
+    "excedente": 146,
+    "acumulado": 27993,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 363,
+    "excedente": 81,
+    "acumulado": 28074,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 403,
+    "excedente": 71,
+    "acumulado": 28145,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 271,
+    "excedente": 69,
+    "acumulado": 28214,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 410,
+    "excedente": 13,
+    "acumulado": 28227,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 28227,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 257,
+    "excedente": 175,
+    "acumulado": 28402,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 344,
+    "excedente": 137,
+    "acumulado": 28539,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 28539,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 328,
+    "consumido": 274,
+    "excedente": 54,
+    "acumulado": 28593,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 263,
+    "excedente": 109,
+    "acumulado": 28702,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 313,
+    "excedente": 10,
+    "acumulado": 28712,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 373,
+    "excedente": 59,
+    "acumulado": 28771,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 254,
+    "excedente": 66,
+    "acumulado": 28837,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 317,
+    "consumido": 419,
+    "excedente": 0,
+    "acumulado": 28837,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 312,
+    "consumido": 277,
+    "excedente": 35,
+    "acumulado": 28872,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 377,
+    "excedente": 89,
+    "acumulado": 28961,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 443,
+    "excedente": 0,
+    "acumulado": 28961,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 366,
+    "excedente": 9,
+    "acumulado": 28970,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 307,
+    "excedente": 178,
+    "acumulado": 29148,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 464,
+    "consumido": 336,
+    "excedente": 128,
+    "acumulado": 29276,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 440,
+    "excedente": 0,
+    "acumulado": 29276,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 353,
+    "excedente": 62,
+    "acumulado": 29338,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 445,
+    "consumido": 387,
+    "excedente": 58,
+    "acumulado": 29396,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 460,
+    "consumido": 326,
+    "excedente": 134,
+    "acumulado": 29530,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 374,
+    "excedente": 49,
+    "acumulado": 29579,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 340,
+    "excedente": 102,
+    "acumulado": 29681,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 29681,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 320,
+    "excedente": 81,
+    "acumulado": 29762,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 364,
+    "excedente": 31,
+    "acumulado": 29793,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 285,
+    "excedente": 189,
+    "acumulado": 29982,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 413,
+    "excedente": 27,
+    "acumulado": 30009,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 395,
+    "excedente": 0,
+    "acumulado": 30009,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 491,
+    "consumido": 275,
+    "excedente": 216,
+    "acumulado": 30225,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 410,
+    "excedente": 0,
+    "acumulado": 30225,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 386,
+    "excedente": 13,
+    "acumulado": 30238,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 411,
+    "excedente": 50,
+    "acumulado": 30288,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 353,
+    "consumido": 325,
+    "excedente": 28,
+    "acumulado": 30316,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 280,
+    "excedente": 156,
+    "acumulado": 30472,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 320,
+    "excedente": 73,
+    "acumulado": 30545,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 287,
+    "excedente": 27,
+    "acumulado": 30572,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 419,
+    "consumido": 277,
+    "excedente": 142,
+    "acumulado": 30714,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 269,
+    "excedente": 135,
+    "acumulado": 30849,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 469,
+    "consumido": 376,
+    "excedente": 93,
+    "acumulado": 30942,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 30942,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 441,
+    "excedente": 41,
+    "acumulado": 30983,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 441,
+    "excedente": 0,
+    "acumulado": 30983,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 250,
+    "excedente": 235,
+    "acumulado": 31218,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 425,
+    "consumido": 276,
+    "excedente": 149,
+    "acumulado": 31367,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 420,
+    "excedente": 14,
+    "acumulado": 31381,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 31381,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 376,
+    "consumido": 393,
+    "excedente": 0,
+    "acumulado": 31381,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 325,
+    "excedente": 76,
+    "acumulado": 31457,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 282,
+    "excedente": 67,
+    "acumulado": 31524,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 493,
+    "consumido": 284,
+    "excedente": 209,
+    "acumulado": 31733,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 371,
+    "excedente": 97,
+    "acumulado": 31830,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 360,
+    "excedente": 29,
+    "acumulado": 31859,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 268,
+    "excedente": 76,
+    "acumulado": 31935,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 378,
+    "excedente": 0,
+    "acumulado": 31935,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 256,
+    "excedente": 165,
+    "acumulado": 32100,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 407,
+    "consumido": 373,
+    "excedente": 34,
+    "acumulado": 32134,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 445,
+    "consumido": 280,
+    "excedente": 165,
+    "acumulado": 32299,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 32299,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 367,
+    "excedente": 41,
+    "acumulado": 32340,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 279,
+    "excedente": 155,
+    "acumulado": 32495,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 410,
+    "excedente": 0,
+    "acumulado": 32495,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 427,
+    "excedente": 0,
+    "acumulado": 32495,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 370,
+    "excedente": 0,
+    "acumulado": 32495,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 419,
+    "consumido": 375,
+    "excedente": 44,
+    "acumulado": 32539,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 255,
+    "excedente": 206,
+    "acumulado": 32745,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 457,
+    "consumido": 430,
+    "excedente": 27,
+    "acumulado": 32772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 440,
+    "excedente": 0,
+    "acumulado": 32772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 331,
+    "excedente": 166,
+    "acumulado": 32938,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 277,
+    "excedente": 179,
+    "acumulado": 33117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 362,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 33117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 443,
+    "excedente": 0,
+    "acumulado": 33117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 407,
+    "excedente": 3,
+    "acumulado": 33120,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 343,
+    "excedente": 29,
+    "acumulado": 33149,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 305,
+    "excedente": 119,
+    "acumulado": 33268,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 398,
+    "consumido": 312,
+    "excedente": 86,
+    "acumulado": 33354,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 260,
+    "excedente": 99,
+    "acumulado": 33453,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 414,
+    "excedente": 80,
+    "acumulado": 33533,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 395,
+    "excedente": 36,
+    "acumulado": 33569,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 405,
+    "excedente": 1,
+    "acumulado": 33570,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 386,
+    "consumido": 308,
+    "excedente": 78,
+    "acumulado": 33648,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 422,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 33648,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 405,
+    "consumido": 402,
+    "excedente": 3,
+    "acumulado": 33651,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 266,
+    "excedente": 189,
+    "acumulado": 33840,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 354,
+    "excedente": 84,
+    "acumulado": 33924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 408,
+    "excedente": 0,
+    "acumulado": 33924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 330,
+    "excedente": 66,
+    "acumulado": 33990,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 388,
+    "excedente": 16,
+    "acumulado": 34006,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 305,
+    "excedente": 169,
+    "acumulado": 34175,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 489,
+    "consumido": 369,
+    "excedente": 120,
+    "acumulado": 34295,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 411,
+    "excedente": 0,
+    "acumulado": 34295,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 307,
+    "excedente": 89,
+    "acumulado": 34384,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 430,
+    "excedente": 0,
+    "acumulado": 34384,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 399,
+    "excedente": 98,
+    "acumulado": 34482,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 390,
+    "excedente": 44,
+    "acumulado": 34526,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 290,
+    "excedente": 39,
+    "acumulado": 34565,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 264,
+    "excedente": 77,
+    "acumulado": 34642,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 471,
+    "consumido": 341,
+    "excedente": 130,
+    "acumulado": 34772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 360,
+    "excedente": 80,
+    "acumulado": 34852,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 356,
+    "excedente": 3,
+    "acumulado": 34855,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 258,
+    "excedente": 99,
+    "acumulado": 34954,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 255,
+    "excedente": 211,
+    "acumulado": 35165,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 301,
+    "consumido": 259,
+    "excedente": 42,
+    "acumulado": 35207,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 371,
+    "consumido": 397,
+    "excedente": 0,
+    "acumulado": 35207,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 340,
+    "excedente": 64,
+    "acumulado": 35271,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 364,
+    "excedente": 10,
+    "acumulado": 35281,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 464,
+    "consumido": 310,
+    "excedente": 154,
+    "acumulado": 35435,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 250,
+    "excedente": 109,
+    "acumulado": 35544,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 445,
+    "excedente": 0,
+    "acumulado": 35544,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 373,
+    "excedente": 109,
+    "acumulado": 35653,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 302,
+    "excedente": 9,
+    "acumulado": 35662,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 372,
+    "excedente": 66,
+    "acumulado": 35728,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 453,
+    "consumido": 293,
+    "excedente": 160,
+    "acumulado": 35888,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 287,
+    "excedente": 123,
+    "acumulado": 36011,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 321,
+    "excedente": 174,
+    "acumulado": 36185,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 321,
+    "excedente": 49,
+    "acumulado": 36234,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 397,
+    "consumido": 333,
+    "excedente": 64,
+    "acumulado": 36298,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 36298,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 383,
+    "excedente": 12,
+    "acumulado": 36310,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 347,
+    "excedente": 97,
+    "acumulado": 36407,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 345,
+    "excedente": 73,
+    "acumulado": 36480,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 406,
+    "excedente": 0,
+    "acumulado": 36480,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 398,
+    "consumido": 380,
+    "excedente": 18,
+    "acumulado": 36498,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 287,
+    "excedente": 134,
+    "acumulado": 36632,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 420,
+    "excedente": 28,
+    "acumulado": 36660,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 441,
+    "consumido": 416,
+    "excedente": 25,
+    "acumulado": 36685,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 309,
+    "excedente": 48,
+    "acumulado": 36733,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 281,
+    "excedente": 174,
+    "acumulado": 36907,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 285,
+    "excedente": 75,
+    "acumulado": 36982,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 307,
+    "consumido": 257,
+    "excedente": 50,
+    "acumulado": 37032,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 376,
+    "excedente": 0,
+    "acumulado": 37032,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 393,
+    "excedente": 28,
+    "acumulado": 37060,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 307,
+    "consumido": 403,
+    "excedente": 0,
+    "acumulado": 37060,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 327,
+    "consumido": 376,
+    "excedente": 0,
+    "acumulado": 37060,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 385,
+    "consumido": 409,
+    "excedente": 0,
+    "acumulado": 37060,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 429,
+    "excedente": 51,
+    "acumulado": 37111,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 351,
+    "excedente": 13,
+    "acumulado": 37124,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 298,
+    "excedente": 168,
+    "acumulado": 37292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 410,
+    "excedente": 28,
+    "acumulado": 37320,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 422,
+    "excedente": 18,
+    "acumulado": 37338,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 347,
+    "consumido": 302,
+    "excedente": 45,
+    "acumulado": 37383,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 394,
+    "excedente": 78,
+    "acumulado": 37461,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 384,
+    "excedente": 0,
+    "acumulado": 37461,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 317,
+    "excedente": 13,
+    "acumulado": 37474,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 411,
+    "consumido": 259,
+    "excedente": 152,
+    "acumulado": 37626,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 350,
+    "consumido": 292,
+    "excedente": 58,
+    "acumulado": 37684,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 338,
+    "excedente": 37,
+    "acumulado": 37721,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 437,
+    "excedente": 0,
+    "acumulado": 37721,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 255,
+    "excedente": 75,
+    "acumulado": 37796,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 265,
+    "excedente": 230,
+    "acumulado": 38026,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 358,
+    "excedente": 0,
+    "acumulado": 38026,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 293,
+    "excedente": 191,
+    "acumulado": 38217,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 382,
+    "consumido": 345,
+    "excedente": 37,
+    "acumulado": 38254,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 268,
+    "excedente": 205,
+    "acumulado": 38459,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 416,
+    "consumido": 348,
+    "excedente": 68,
+    "acumulado": 38527,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 321,
+    "excedente": 108,
+    "acumulado": 38635,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 321,
+    "excedente": 151,
+    "acumulado": 38786,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 374,
+    "excedente": 100,
+    "acumulado": 38886,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 437,
+    "consumido": 441,
+    "excedente": 0,
+    "acumulado": 38886,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 426,
+    "consumido": 300,
+    "excedente": 126,
+    "acumulado": 39012,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 367,
+    "excedente": 105,
+    "acumulado": 39117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 321,
+    "excedente": 92,
+    "acumulado": 39209,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 386,
+    "consumido": 286,
+    "excedente": 100,
+    "acumulado": 39309,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 347,
+    "excedente": 0,
+    "acumulado": 39309,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 421,
+    "excedente": 0,
+    "acumulado": 39309,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 292,
+    "excedente": 150,
+    "acumulado": 39459,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 331,
+    "excedente": 159,
+    "acumulado": 39618,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 321,
+    "consumido": 273,
+    "excedente": 48,
+    "acumulado": 39666,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 421,
+    "excedente": 0,
+    "acumulado": 39666,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 489,
+    "consumido": 409,
+    "excedente": 80,
+    "acumulado": 39746,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 343,
+    "excedente": 129,
+    "acumulado": 39875,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 399,
+    "excedente": 0,
+    "acumulado": 39875,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 417,
+    "consumido": 391,
+    "excedente": 26,
+    "acumulado": 39901,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 487,
+    "consumido": 366,
+    "excedente": 121,
+    "acumulado": 40022,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 263,
+    "excedente": 234,
+    "acumulado": 40256,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 306,
+    "consumido": 392,
+    "excedente": 0,
+    "acumulado": 40256,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 302,
+    "excedente": 55,
+    "acumulado": 40311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 459,
+    "consumido": 364,
+    "excedente": 95,
+    "acumulado": 40406,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 379,
+    "excedente": 82,
+    "acumulado": 40488,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 499,
+    "consumido": 279,
+    "excedente": 220,
+    "acumulado": 40708,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 364,
+    "excedente": 26,
+    "acumulado": 40734,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 415,
+    "excedente": 0,
+    "acumulado": 40734,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 318,
+    "consumido": 368,
+    "excedente": 0,
+    "acumulado": 40734,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 407,
+    "excedente": 0,
+    "acumulado": 40734,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 351,
+    "consumido": 397,
+    "excedente": 0,
+    "acumulado": 40734,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 369,
+    "excedente": 25,
+    "acumulado": 40759,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 318,
+    "excedente": 140,
+    "acumulado": 40899,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 428,
+    "excedente": 49,
+    "acumulado": 40948,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 40948,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 409,
+    "excedente": 0,
+    "acumulado": 40948,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 367,
+    "consumido": 295,
+    "excedente": 72,
+    "acumulado": 41020,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 361,
+    "excedente": 107,
+    "acumulado": 41127,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 255,
+    "excedente": 111,
+    "acumulado": 41238,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 320,
+    "excedente": 148,
+    "acumulado": 41386,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 285,
+    "excedente": 183,
+    "acumulado": 41569,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 413,
+    "excedente": 52,
+    "acumulado": 41621,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 365,
+    "excedente": 89,
+    "acumulado": 41710,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 409,
+    "excedente": 81,
+    "acumulado": 41791,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 278,
+    "excedente": 130,
+    "acumulado": 41921,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 296,
+    "excedente": 174,
+    "acumulado": 42095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 358,
+    "excedente": 0,
+    "acumulado": 42095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 307,
+    "excedente": 111,
+    "acumulado": 42206,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 418,
+    "excedente": 79,
+    "acumulado": 42285,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 459,
+    "consumido": 296,
+    "excedente": 163,
+    "acumulado": 42448,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 256,
+    "excedente": 179,
+    "acumulado": 42627,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 395,
+    "excedente": 36,
+    "acumulado": 42663,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 409,
+    "excedente": 0,
+    "acumulado": 42663,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 479,
+    "consumido": 316,
+    "excedente": 163,
+    "acumulado": 42826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 487,
+    "consumido": 441,
+    "excedente": 46,
+    "acumulado": 42872,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 355,
+    "consumido": 327,
+    "excedente": 28,
+    "acumulado": 42900,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 298,
+    "excedente": 2,
+    "acumulado": 42902,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 42902,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 492,
+    "consumido": 422,
+    "excedente": 70,
+    "acumulado": 42972,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 412,
+    "excedente": 83,
+    "acumulado": 43055,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 460,
+    "consumido": 397,
+    "excedente": 63,
+    "acumulado": 43118,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 432,
+    "excedente": 0,
+    "acumulado": 43118,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 392,
+    "excedente": 0,
+    "acumulado": 43118,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 423,
+    "excedente": 4,
+    "acumulado": 43122,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 427,
+    "excedente": 0,
+    "acumulado": 43122,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 307,
+    "excedente": 61,
+    "acumulado": 43183,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 331,
+    "excedente": 7,
+    "acumulado": 43190,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 263,
+    "excedente": 184,
+    "acumulado": 43374,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 385,
+    "consumido": 282,
+    "excedente": 103,
+    "acumulado": 43477,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 381,
+    "excedente": 68,
+    "acumulado": 43545,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 391,
+    "excedente": 0,
+    "acumulado": 43545,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 351,
+    "excedente": 126,
+    "acumulado": 43671,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 264,
+    "excedente": 75,
+    "acumulado": 43746,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 411,
+    "excedente": 36,
+    "acumulado": 43782,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 341,
+    "excedente": 120,
+    "acumulado": 43902,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 289,
+    "excedente": 115,
+    "acumulado": 44017,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 251,
+    "excedente": 183,
+    "acumulado": 44200,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 347,
+    "excedente": 111,
+    "acumulado": 44311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 420,
+    "excedente": 0,
+    "acumulado": 44311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 44311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 369,
+    "consumido": 387,
+    "excedente": 0,
+    "acumulado": 44311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 318,
+    "excedente": 0,
+    "acumulado": 44311,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 295,
+    "excedente": 182,
+    "acumulado": 44493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 275,
+    "excedente": 137,
+    "acumulado": 44630,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 44630,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 312,
+    "excedente": 60,
+    "acumulado": 44690,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 360,
+    "excedente": 94,
+    "acumulado": 44784,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 369,
+    "consumido": 252,
+    "excedente": 117,
+    "acumulado": 44901,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 284,
+    "excedente": 36,
+    "acumulado": 44937,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 307,
+    "excedente": 33,
+    "acumulado": 44970,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 402,
+    "excedente": 64,
+    "acumulado": 45034,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 353,
+    "excedente": 87,
+    "acumulado": 45121,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 423,
+    "excedente": 0,
+    "acumulado": 45121,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 390,
+    "excedente": 0,
+    "acumulado": 45121,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 389,
+    "excedente": 29,
+    "acumulado": 45150,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 375,
+    "excedente": 20,
+    "acumulado": 45170,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 351,
+    "excedente": 0,
+    "acumulado": 45170,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 380,
+    "excedente": 0,
+    "acumulado": 45170,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 323,
+    "excedente": 115,
+    "acumulado": 45285,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 368,
+    "excedente": 9,
+    "acumulado": 45294,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 315,
+    "excedente": 51,
+    "acumulado": 45345,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 45345,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 252,
+    "excedente": 53,
+    "acumulado": 45398,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 313,
+    "excedente": 87,
+    "acumulado": 45485,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 45485,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 492,
+    "consumido": 444,
+    "excedente": 48,
+    "acumulado": 45533,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 322,
+    "excedente": 72,
+    "acumulado": 45605,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 402,
+    "consumido": 421,
+    "excedente": 0,
+    "acumulado": 45605,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 256,
+    "excedente": 138,
+    "acumulado": 45743,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 445,
+    "consumido": 264,
+    "excedente": 181,
+    "acumulado": 45924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 479,
+    "consumido": 443,
+    "excedente": 36,
+    "acumulado": 45960,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 330,
+    "excedente": 118,
+    "acumulado": 46078,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 335,
+    "excedente": 131,
+    "acumulado": 46209,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 446,
+    "consumido": 397,
+    "excedente": 49,
+    "acumulado": 46258,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 321,
+    "excedente": 146,
+    "acumulado": 46404,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 407,
+    "consumido": 415,
+    "excedente": 0,
+    "acumulado": 46404,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 281,
+    "excedente": 129,
+    "acumulado": 46533,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 260,
+    "excedente": 44,
+    "acumulado": 46577,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 499,
+    "consumido": 343,
+    "excedente": 156,
+    "acumulado": 46733,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 397,
+    "consumido": 256,
+    "excedente": 141,
+    "acumulado": 46874,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 438,
+    "excedente": 56,
+    "acumulado": 46930,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 297,
+    "excedente": 5,
+    "acumulado": 46935,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 260,
+    "excedente": 44,
+    "acumulado": 46979,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 407,
+    "consumido": 421,
+    "excedente": 0,
+    "acumulado": 46979,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 267,
+    "excedente": 75,
+    "acumulado": 47054,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 430,
+    "excedente": 0,
+    "acumulado": 47054,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 355,
+    "excedente": 0,
+    "acumulado": 47054,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 419,
+    "excedente": 0,
+    "acumulado": 47054,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 322,
+    "consumido": 273,
+    "excedente": 49,
+    "acumulado": 47103,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 253,
+    "excedente": 105,
+    "acumulado": 47208,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 47208,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 251,
+    "excedente": 121,
+    "acumulado": 47329,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 350,
+    "excedente": 65,
+    "acumulado": 47394,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 286,
+    "excedente": 108,
+    "acumulado": 47502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 274,
+    "excedente": 194,
+    "acumulado": 47696,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 306,
+    "excedente": 53,
+    "acumulado": 47749,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 320,
+    "excedente": 107,
+    "acumulado": 47856,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 321,
+    "consumido": 274,
+    "excedente": 47,
+    "acumulado": 47903,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 280,
+    "excedente": 120,
+    "acumulado": 48023,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 315,
+    "consumido": 290,
+    "excedente": 25,
+    "acumulado": 48048,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 274,
+    "excedente": 139,
+    "acumulado": 48187,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 436,
+    "excedente": 0,
+    "acumulado": 48187,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 410,
+    "excedente": 84,
+    "acumulado": 48271,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 48271,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 404,
+    "excedente": 82,
+    "acumulado": 48353,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 318,
+    "consumido": 420,
+    "excedente": 0,
+    "acumulado": 48353,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 301,
+    "excedente": 181,
+    "acumulado": 48534,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 366,
+    "excedente": 0,
+    "acumulado": 48534,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 406,
+    "excedente": 0,
+    "acumulado": 48534,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 48534,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 333,
+    "excedente": 63,
+    "acumulado": 48597,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 317,
+    "excedente": 25,
+    "acumulado": 48622,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 326,
+    "excedente": 162,
+    "acumulado": 48784,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 323,
+    "excedente": 56,
+    "acumulado": 48840,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 48840,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 420,
+    "excedente": 0,
+    "acumulado": 48840,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 300,
+    "excedente": 180,
+    "acumulado": 49020,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 428,
+    "excedente": 38,
+    "acumulado": 49058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 271,
+    "excedente": 68,
+    "acumulado": 49126,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 469,
+    "consumido": 254,
+    "excedente": 215,
+    "acumulado": 49341,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 315,
+    "excedente": 46,
+    "acumulado": 49387,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 251,
+    "excedente": 245,
+    "acumulado": 49632,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 385,
+    "consumido": 444,
+    "excedente": 0,
+    "acumulado": 49632,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 489,
+    "consumido": 343,
+    "excedente": 146,
+    "acumulado": 49778,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 315,
+    "consumido": 295,
+    "excedente": 20,
+    "acumulado": 49798,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 343,
+    "excedente": 0,
+    "acumulado": 49798,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 446,
+    "excedente": 0,
+    "acumulado": 49798,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 425,
+    "consumido": 429,
+    "excedente": 0,
+    "acumulado": 49798,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 256,
+    "excedente": 104,
+    "acumulado": 49902,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 339,
+    "excedente": 73,
+    "acumulado": 49975,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 307,
+    "excedente": 142,
+    "acumulado": 50117,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 446,
+    "consumido": 346,
+    "excedente": 100,
+    "acumulado": 50217,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 301,
+    "consumido": 310,
+    "excedente": 0,
+    "acumulado": 50217,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 302,
+    "excedente": 17,
+    "acumulado": 50234,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 414,
+    "excedente": 53,
+    "acumulado": 50287,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 343,
+    "excedente": 0,
+    "acumulado": 50287,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 260,
+    "excedente": 124,
+    "acumulado": 50411,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 417,
+    "consumido": 267,
+    "excedente": 150,
+    "acumulado": 50561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 50561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 331,
+    "excedente": 134,
+    "acumulado": 50695,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 437,
+    "excedente": 0,
+    "acumulado": 50695,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 347,
+    "consumido": 390,
+    "excedente": 0,
+    "acumulado": 50695,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 316,
+    "excedente": 33,
+    "acumulado": 50728,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 310,
+    "consumido": 288,
+    "excedente": 22,
+    "acumulado": 50750,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 295,
+    "excedente": 18,
+    "acumulado": 50768,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 313,
+    "excedente": 122,
+    "acumulado": 50890,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 324,
+    "excedente": 34,
+    "acumulado": 50924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 355,
+    "excedente": 0,
+    "acumulado": 50924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 397,
+    "excedente": 0,
+    "acumulado": 50924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 382,
+    "consumido": 418,
+    "excedente": 0,
+    "acumulado": 50924,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 406,
+    "excedente": 52,
+    "acumulado": 50976,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 383,
+    "excedente": 89,
+    "acumulado": 51065,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 319,
+    "excedente": 70,
+    "acumulado": 51135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 319,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 51135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 420,
+    "excedente": 0,
+    "acumulado": 51135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 401,
+    "excedente": 0,
+    "acumulado": 51135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 310,
+    "excedente": 0,
+    "acumulado": 51135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 392,
+    "consumido": 353,
+    "excedente": 39,
+    "acumulado": 51174,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 448,
+    "consumido": 317,
+    "excedente": 131,
+    "acumulado": 51305,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 426,
+    "excedente": 58,
+    "acumulado": 51363,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 433,
+    "consumido": 416,
+    "excedente": 17,
+    "acumulado": 51380,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 292,
+    "excedente": 152,
+    "acumulado": 51532,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 408,
+    "excedente": 27,
+    "acumulado": 51559,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 499,
+    "consumido": 346,
+    "excedente": 153,
+    "acumulado": 51712,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 282,
+    "excedente": 188,
+    "acumulado": 51900,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 302,
+    "excedente": 138,
+    "acumulado": 52038,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 327,
+    "excedente": 60,
+    "acumulado": 52098,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 261,
+    "excedente": 93,
+    "acumulado": 52191,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 381,
+    "consumido": 280,
+    "excedente": 101,
+    "acumulado": 52292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 345,
+    "excedente": 0,
+    "acumulado": 52292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 403,
+    "consumido": 406,
+    "excedente": 0,
+    "acumulado": 52292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 304,
+    "consumido": 354,
+    "excedente": 0,
+    "acumulado": 52292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 407,
+    "excedente": 0,
+    "acumulado": 52292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 425,
+    "consumido": 306,
+    "excedente": 119,
+    "acumulado": 52411,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 319,
+    "excedente": 61,
+    "acumulado": 52472,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 286,
+    "excedente": 17,
+    "acumulado": 52489,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 396,
+    "excedente": 16,
+    "acumulado": 52505,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 342,
+    "excedente": 0,
+    "acumulado": 52505,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 330,
+    "excedente": 88,
+    "acumulado": 52593,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 395,
+    "excedente": 0,
+    "acumulado": 52593,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 327,
+    "consumido": 323,
+    "excedente": 4,
+    "acumulado": 52597,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 312,
+    "consumido": 363,
+    "excedente": 0,
+    "acumulado": 52597,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 409,
+    "excedente": 0,
+    "acumulado": 52597,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 498,
+    "consumido": 335,
+    "excedente": 163,
+    "acumulado": 52760,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 464,
+    "consumido": 367,
+    "excedente": 97,
+    "acumulado": 52857,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 422,
+    "consumido": 310,
+    "excedente": 112,
+    "acumulado": 52969,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 290,
+    "excedente": 39,
+    "acumulado": 53008,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 326,
+    "consumido": 325,
+    "excedente": 1,
+    "acumulado": 53009,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 53009,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 373,
+    "consumido": 335,
+    "excedente": 38,
+    "acumulado": 53047,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 416,
+    "excedente": 0,
+    "acumulado": 53047,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 452,
+    "consumido": 440,
+    "excedente": 12,
+    "acumulado": 53059,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 334,
+    "excedente": 23,
+    "acumulado": 53082,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 475,
+    "consumido": 310,
+    "excedente": 165,
+    "acumulado": 53247,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 375,
+    "excedente": 0,
+    "acumulado": 53247,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 383,
+    "consumido": 352,
+    "excedente": 31,
+    "acumulado": 53278,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 258,
+    "excedente": 102,
+    "acumulado": 53380,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 410,
+    "excedente": 0,
+    "acumulado": 53380,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 430,
+    "consumido": 385,
+    "excedente": 45,
+    "acumulado": 53425,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 273,
+    "excedente": 118,
+    "acumulado": 53543,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 382,
+    "consumido": 260,
+    "excedente": 122,
+    "acumulado": 53665,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 307,
+    "excedente": 81,
+    "acumulado": 53746,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 308,
+    "excedente": 188,
+    "acumulado": 53934,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 307,
+    "excedente": 7,
+    "acumulado": 53941,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 299,
+    "excedente": 197,
+    "acumulado": 54138,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 358,
+    "consumido": 376,
+    "excedente": 0,
+    "acumulado": 54138,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 441,
+    "excedente": 0,
+    "acumulado": 54138,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 309,
+    "excedente": 95,
+    "acumulado": 54233,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 316,
+    "excedente": 105,
+    "acumulado": 54338,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 418,
+    "excedente": 0,
+    "acumulado": 54338,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 335,
+    "excedente": 78,
+    "acumulado": 54416,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 298,
+    "excedente": 145,
+    "acumulado": 54561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 383,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 54561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 415,
+    "excedente": 0,
+    "acumulado": 54561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 402,
+    "consumido": 386,
+    "excedente": 16,
+    "acumulado": 54577,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 414,
+    "consumido": 282,
+    "excedente": 132,
+    "acumulado": 54709,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 361,
+    "excedente": 83,
+    "acumulado": 54792,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 349,
+    "excedente": 0,
+    "acumulado": 54792,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 357,
+    "excedente": 81,
+    "acumulado": 54873,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 351,
+    "excedente": 69,
+    "acumulado": 54942,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 310,
+    "excedente": 69,
+    "acumulado": 55011,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 350,
+    "consumido": 325,
+    "excedente": 25,
+    "acumulado": 55036,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 55036,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 290,
+    "excedente": 153,
+    "acumulado": 55189,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 287,
+    "excedente": 81,
+    "acumulado": 55270,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 370,
+    "excedente": 58,
+    "acumulado": 55328,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 252,
+    "excedente": 233,
+    "acumulado": 55561,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 324,
+    "excedente": 100,
+    "acumulado": 55661,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 258,
+    "excedente": 105,
+    "acumulado": 55766,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 346,
+    "excedente": 0,
+    "acumulado": 55766,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 303,
+    "excedente": 39,
+    "acumulado": 55805,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 407,
+    "consumido": 413,
+    "excedente": 0,
+    "acumulado": 55805,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 453,
+    "consumido": 420,
+    "excedente": 33,
+    "acumulado": 55838,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 312,
+    "consumido": 448,
+    "excedente": 0,
+    "acumulado": 55838,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 428,
+    "excedente": 0,
+    "acumulado": 55838,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 462,
+    "consumido": 254,
+    "excedente": 208,
+    "acumulado": 56046,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 317,
+    "consumido": 431,
+    "excedente": 0,
+    "acumulado": 56046,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 350,
+    "consumido": 261,
+    "excedente": 89,
+    "acumulado": 56135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 404,
+    "excedente": 36,
+    "acumulado": 56171,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 279,
+    "excedente": 217,
+    "acumulado": 56388,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 294,
+    "excedente": 58,
+    "acumulado": 56446,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 274,
+    "excedente": 130,
+    "acumulado": 56576,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 386,
+    "consumido": 279,
+    "excedente": 107,
+    "acumulado": 56683,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 437,
+    "consumido": 310,
+    "excedente": 127,
+    "acumulado": 56810,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 415,
+    "excedente": 21,
+    "acumulado": 56831,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 404,
+    "excedente": 39,
+    "acumulado": 56870,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 279,
+    "excedente": 109,
+    "acumulado": 56979,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 266,
+    "excedente": 79,
+    "acumulado": 57058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 403,
+    "excedente": 0,
+    "acumulado": 57058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 369,
+    "excedente": 0,
+    "acumulado": 57058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 321,
+    "excedente": 68,
+    "acumulado": 57126,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 412,
+    "consumido": 313,
+    "excedente": 99,
+    "acumulado": 57225,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 57225,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 385,
+    "excedente": 30,
+    "acumulado": 57255,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 321,
+    "consumido": 371,
+    "excedente": 0,
+    "acumulado": 57255,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 442,
+    "excedente": 5,
+    "acumulado": 57260,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 489,
+    "consumido": 367,
+    "excedente": 122,
+    "acumulado": 57382,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 260,
+    "excedente": 108,
+    "acumulado": 57490,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 271,
+    "excedente": 142,
+    "acumulado": 57632,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 57632,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 253,
+    "excedente": 170,
+    "acumulado": 57802,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 390,
+    "excedente": 76,
+    "acumulado": 57878,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 255,
+    "excedente": 58,
+    "acumulado": 57936,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 271,
+    "excedente": 195,
+    "acumulado": 58131,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 321,
+    "excedente": 17,
+    "acumulado": 58148,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 335,
+    "excedente": 97,
+    "acumulado": 58245,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 277,
+    "excedente": 211,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 449,
+    "excedente": 0,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 326,
+    "consumido": 394,
+    "excedente": 0,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 438,
+    "excedente": 0,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 353,
+    "consumido": 418,
+    "excedente": 0,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 412,
+    "excedente": 0,
+    "acumulado": 58456,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 480,
+    "consumido": 259,
+    "excedente": 221,
+    "acumulado": 58677,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 279,
+    "excedente": 188,
+    "acumulado": 58865,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 496,
+    "consumido": 286,
+    "excedente": 210,
+    "acumulado": 59075,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 300,
+    "excedente": 46,
+    "acumulado": 59121,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 399,
+    "excedente": 71,
+    "acumulado": 59192,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 278,
+    "excedente": 100,
+    "acumulado": 59292,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 271,
+    "excedente": 201,
+    "acumulado": 59493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 330,
+    "consumido": 408,
+    "excedente": 0,
+    "acumulado": 59493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 59493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 398,
+    "consumido": 425,
+    "excedente": 0,
+    "acumulado": 59493,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 360,
+    "excedente": 110,
+    "acumulado": 59603,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 346,
+    "excedente": 115,
+    "acumulado": 59718,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 451,
+    "consumido": 280,
+    "excedente": 171,
+    "acumulado": 59889,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 310,
+    "consumido": 396,
+    "excedente": 0,
+    "acumulado": 59889,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 379,
+    "excedente": 0,
+    "acumulado": 59889,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 424,
+    "consumido": 377,
+    "excedente": 47,
+    "acumulado": 59936,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 377,
+    "excedente": 19,
+    "acumulado": 59955,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 299,
+    "excedente": 47,
+    "acumulado": 60002,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 395,
+    "excedente": 86,
+    "acumulado": 60088,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 439,
+    "consumido": 356,
+    "excedente": 83,
+    "acumulado": 60171,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 325,
+    "consumido": 267,
+    "excedente": 58,
+    "acumulado": 60229,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 261,
+    "excedente": 186,
+    "acumulado": 60415,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 352,
+    "excedente": 22,
+    "acumulado": 60437,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 347,
+    "excedente": 0,
+    "acumulado": 60437,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 444,
+    "excedente": 41,
+    "acumulado": 60478,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 436,
+    "excedente": 0,
+    "acumulado": 60478,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 394,
+    "excedente": 0,
+    "acumulado": 60478,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 487,
+    "consumido": 310,
+    "excedente": 177,
+    "acumulado": 60655,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 260,
+    "excedente": 129,
+    "acumulado": 60784,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 346,
+    "excedente": 101,
+    "acumulado": 60885,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 303,
+    "excedente": 13,
+    "acumulado": 60898,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 342,
+    "excedente": 76,
+    "acumulado": 60974,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 317,
+    "excedente": 111,
+    "acumulado": 61085,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 251,
+    "excedente": 124,
+    "acumulado": 61209,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 328,
+    "consumido": 278,
+    "excedente": 50,
+    "acumulado": 61259,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 446,
+    "consumido": 319,
+    "excedente": 127,
+    "acumulado": 61386,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 285,
+    "excedente": 104,
+    "acumulado": 61490,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 282,
+    "excedente": 176,
+    "acumulado": 61666,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 286,
+    "excedente": 58,
+    "acumulado": 61724,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 417,
+    "excedente": 64,
+    "acumulado": 61788,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 435,
+    "excedente": 0,
+    "acumulado": 61788,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 380,
+    "consumido": 348,
+    "excedente": 32,
+    "acumulado": 61820,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 351,
+    "excedente": 0,
+    "acumulado": 61820,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 378,
+    "excedente": 23,
+    "acumulado": 61843,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 429,
+    "excedente": 0,
+    "acumulado": 61843,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 269,
+    "excedente": 197,
+    "acumulado": 62040,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 348,
+    "consumido": 435,
+    "excedente": 0,
+    "acumulado": 62040,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 370,
+    "excedente": 74,
+    "acumulado": 62114,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 262,
+    "excedente": 222,
+    "acumulado": 62336,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 62336,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 417,
+    "consumido": 431,
+    "excedente": 0,
+    "acumulado": 62336,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 286,
+    "excedente": 107,
+    "acumulado": 62443,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 452,
+    "consumido": 338,
+    "excedente": 114,
+    "acumulado": 62557,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 324,
+    "excedente": 66,
+    "acumulado": 62623,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 280,
+    "excedente": 155,
+    "acumulado": 62778,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 298,
+    "excedente": 2,
+    "acumulado": 62780,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 286,
+    "excedente": 56,
+    "acumulado": 62836,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 407,
+    "consumido": 356,
+    "excedente": 51,
+    "acumulado": 62887,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 290,
+    "excedente": 200,
+    "acumulado": 63087,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 258,
+    "excedente": 112,
+    "acumulado": 63199,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 386,
+    "excedente": 96,
+    "acumulado": 63295,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 314,
+    "excedente": 0,
+    "acumulado": 63295,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 267,
+    "excedente": 71,
+    "acumulado": 63366,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 376,
+    "consumido": 348,
+    "excedente": 28,
+    "acumulado": 63394,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 287,
+    "excedente": 58,
+    "acumulado": 63452,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 434,
+    "excedente": 0,
+    "acumulado": 63452,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 311,
+    "excedente": 133,
+    "acumulado": 63585,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 357,
+    "excedente": 111,
+    "acumulado": 63696,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 310,
+    "consumido": 444,
+    "excedente": 0,
+    "acumulado": 63696,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 357,
+    "excedente": 0,
+    "acumulado": 63696,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 268,
+    "excedente": 73,
+    "acumulado": 63769,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 280,
+    "excedente": 54,
+    "acumulado": 63823,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 414,
+    "consumido": 411,
+    "excedente": 3,
+    "acumulado": 63826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 338,
+    "consumido": 265,
+    "excedente": 73,
+    "acumulado": 63899,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 301,
+    "consumido": 299,
+    "excedente": 2,
+    "acumulado": 63901,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 312,
+    "consumido": 259,
+    "excedente": 53,
+    "acumulado": 63954,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 271,
+    "excedente": 123,
+    "acumulado": 64077,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 340,
+    "consumido": 379,
+    "excedente": 0,
+    "acumulado": 64077,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 354,
+    "excedente": 0,
+    "acumulado": 64077,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 268,
+    "excedente": 142,
+    "acumulado": 64219,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 422,
+    "consumido": 259,
+    "excedente": 163,
+    "acumulado": 64382,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 397,
+    "excedente": 88,
+    "acumulado": 64470,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 412,
+    "excedente": 0,
+    "acumulado": 64470,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 64470,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 267,
+    "excedente": 160,
+    "acumulado": 64630,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 310,
+    "consumido": 275,
+    "excedente": 35,
+    "acumulado": 64665,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 440,
+    "excedente": 0,
+    "acumulado": 64665,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 431,
+    "excedente": 12,
+    "acumulado": 64677,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 387,
+    "excedente": 41,
+    "acumulado": 64718,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 404,
+    "excedente": 0,
+    "acumulado": 64718,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 271,
+    "excedente": 135,
+    "acumulado": 64853,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 260,
+    "excedente": 237,
+    "acumulado": 65090,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 446,
+    "excedente": 0,
+    "acumulado": 65090,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 345,
+    "excedente": 45,
+    "acumulado": 65135,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 398,
+    "consumido": 321,
+    "excedente": 77,
+    "acumulado": 65212,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 453,
+    "consumido": 398,
+    "excedente": 55,
+    "acumulado": 65267,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 389,
+    "consumido": 384,
+    "excedente": 5,
+    "acumulado": 65272,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 402,
+    "consumido": 312,
+    "excedente": 90,
+    "acumulado": 65362,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 283,
+    "excedente": 41,
+    "acumulado": 65403,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 351,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 65403,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 250,
+    "excedente": 185,
+    "acumulado": 65588,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 370,
+    "excedente": 62,
+    "acumulado": 65650,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 301,
+    "consumido": 318,
+    "excedente": 0,
+    "acumulado": 65650,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 355,
+    "consumido": 348,
+    "excedente": 7,
+    "acumulado": 65657,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 399,
+    "excedente": 43,
+    "acumulado": 65700,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 387,
+    "consumido": 399,
+    "excedente": 0,
+    "acumulado": 65700,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 350,
+    "excedente": 78,
+    "acumulado": 65778,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 327,
+    "excedente": 0,
+    "acumulado": 65778,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 492,
+    "consumido": 437,
+    "excedente": 55,
+    "acumulado": 65833,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 326,
+    "consumido": 346,
+    "excedente": 0,
+    "acumulado": 65833,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 307,
+    "excedente": 25,
+    "acumulado": 65858,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 385,
+    "excedente": 96,
+    "acumulado": 65954,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 322,
+    "consumido": 377,
+    "excedente": 0,
+    "acumulado": 65954,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 371,
+    "excedente": 35,
+    "acumulado": 65989,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 316,
+    "excedente": 120,
+    "acumulado": 66109,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 403,
+    "excedente": 0,
+    "acumulado": 66109,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 383,
+    "consumido": 405,
+    "excedente": 0,
+    "acumulado": 66109,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 319,
+    "excedente": 25,
+    "acumulado": 66134,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 255,
+    "excedente": 194,
+    "acumulado": 66328,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 326,
+    "excedente": 62,
+    "acumulado": 66390,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 436,
+    "excedente": 0,
+    "acumulado": 66390,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 409,
+    "consumido": 328,
+    "excedente": 81,
+    "acumulado": 66471,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 314,
+    "excedente": 49,
+    "acumulado": 66520,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 353,
+    "excedente": 46,
+    "acumulado": 66566,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 380,
+    "excedente": 102,
+    "acumulado": 66668,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 284,
+    "excedente": 93,
+    "acumulado": 66761,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 447,
+    "excedente": 0,
+    "acumulado": 66761,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 330,
+    "excedente": 65,
+    "acumulado": 66826,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 318,
+    "excedente": 164,
+    "acumulado": 66990,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 445,
+    "consumido": 317,
+    "excedente": 128,
+    "acumulado": 67118,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 392,
+    "consumido": 346,
+    "excedente": 46,
+    "acumulado": 67164,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 429,
+    "consumido": 358,
+    "excedente": 71,
+    "acumulado": 67235,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 300,
+    "consumido": 365,
+    "excedente": 0,
+    "acumulado": 67235,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 271,
+    "excedente": 150,
+    "acumulado": 67385,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 334,
+    "excedente": 0,
+    "acumulado": 67385,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 413,
+    "excedente": 55,
+    "acumulado": 67440,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 303,
+    "excedente": 56,
+    "acumulado": 67496,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 385,
+    "consumido": 272,
+    "excedente": 113,
+    "acumulado": 67609,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 338,
+    "excedente": 18,
+    "acumulado": 67627,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 312,
+    "excedente": 142,
+    "acumulado": 67769,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 267,
+    "excedente": 65,
+    "acumulado": 67834,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 345,
+    "excedente": 0,
+    "acumulado": 67834,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 345,
+    "excedente": 152,
+    "acumulado": 67986,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 360,
+    "excedente": 0,
+    "acumulado": 67986,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 312,
+    "excedente": 143,
+    "acumulado": 68129,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 493,
+    "consumido": 256,
+    "excedente": 237,
+    "acumulado": 68366,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 411,
+    "consumido": 334,
+    "excedente": 77,
+    "acumulado": 68443,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 378,
+    "excedente": 12,
+    "acumulado": 68455,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 441,
+    "consumido": 420,
+    "excedente": 21,
+    "acumulado": 68476,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 308,
+    "excedente": 130,
+    "acumulado": 68606,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 452,
+    "consumido": 411,
+    "excedente": 41,
+    "acumulado": 68647,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 395,
+    "excedente": 0,
+    "acumulado": 68647,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 376,
+    "consumido": 281,
+    "excedente": 95,
+    "acumulado": 68742,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 416,
+    "excedente": 0,
+    "acumulado": 68742,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 313,
+    "excedente": 105,
+    "acumulado": 68847,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 373,
+    "excedente": 31,
+    "acumulado": 68878,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 351,
+    "consumido": 362,
+    "excedente": 0,
+    "acumulado": 68878,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 383,
+    "excedente": 0,
+    "acumulado": 68878,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 368,
+    "consumido": 283,
+    "excedente": 85,
+    "acumulado": 68963,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 493,
+    "consumido": 334,
+    "excedente": 159,
+    "acumulado": 69122,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 279,
+    "excedente": 64,
+    "acumulado": 69186,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 375,
+    "excedente": 119,
+    "acumulado": 69305,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 373,
+    "consumido": 389,
+    "excedente": 0,
+    "acumulado": 69305,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 263,
+    "excedente": 210,
+    "acumulado": 69515,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 304,
+    "excedente": 31,
+    "acumulado": 69546,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 490,
+    "consumido": 342,
+    "excedente": 148,
+    "acumulado": 69694,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 285,
+    "excedente": 155,
+    "acumulado": 69849,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 338,
+    "excedente": 0,
+    "acumulado": 69849,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 373,
+    "excedente": 0,
+    "acumulado": 69849,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 441,
+    "consumido": 415,
+    "excedente": 26,
+    "acumulado": 69875,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 428,
+    "consumido": 292,
+    "excedente": 136,
+    "acumulado": 70011,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 369,
+    "excedente": 0,
+    "acumulado": 70011,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 421,
+    "consumido": 382,
+    "excedente": 39,
+    "acumulado": 70050,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 446,
+    "excedente": 8,
+    "acumulado": 70058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 460,
+    "consumido": 283,
+    "excedente": 177,
+    "acumulado": 70235,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 470,
+    "consumido": 336,
+    "excedente": 134,
+    "acumulado": 70369,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 290,
+    "excedente": 110,
+    "acumulado": 70479,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 433,
+    "excedente": 0,
+    "acumulado": 70479,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 337,
+    "excedente": 29,
+    "acumulado": 70508,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 391,
+    "consumido": 289,
+    "excedente": 102,
+    "acumulado": 70610,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 439,
+    "consumido": 338,
+    "excedente": 101,
+    "acumulado": 70711,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 389,
+    "excedente": 0,
+    "acumulado": 70711,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 286,
+    "excedente": 211,
+    "acumulado": 70922,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 425,
+    "consumido": 263,
+    "excedente": 162,
+    "acumulado": 71084,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 370,
+    "excedente": 79,
+    "acumulado": 71163,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 382,
+    "consumido": 393,
+    "excedente": 0,
+    "acumulado": 71163,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 375,
+    "consumido": 354,
+    "excedente": 21,
+    "acumulado": 71184,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 364,
+    "excedente": 131,
+    "acumulado": 71315,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 401,
+    "excedente": 0,
+    "acumulado": 71315,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 458,
+    "consumido": 441,
+    "excedente": 17,
+    "acumulado": 71332,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 299,
+    "excedente": 21,
+    "acumulado": 71353,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 416,
+    "consumido": 381,
+    "excedente": 35,
+    "acumulado": 71388,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 395,
+    "excedente": 0,
+    "acumulado": 71388,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 350,
+    "excedente": 106,
+    "acumulado": 71494,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 471,
+    "consumido": 370,
+    "excedente": 101,
+    "acumulado": 71595,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 459,
+    "consumido": 301,
+    "excedente": 158,
+    "acumulado": 71753,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 374,
+    "excedente": 0,
+    "acumulado": 71753,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 493,
+    "consumido": 254,
+    "excedente": 239,
+    "acumulado": 71992,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 363,
+    "consumido": 334,
+    "excedente": 29,
+    "acumulado": 72021,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 357,
+    "consumido": 265,
+    "excedente": 92,
+    "acumulado": 72113,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 262,
+    "excedente": 61,
+    "acumulado": 72174,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 273,
+    "excedente": 79,
+    "acumulado": 72253,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 420,
+    "excedente": 0,
+    "acumulado": 72253,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 251,
+    "excedente": 192,
+    "acumulado": 72445,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 460,
+    "consumido": 296,
+    "excedente": 164,
+    "acumulado": 72609,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 328,
+    "consumido": 334,
+    "excedente": 0,
+    "acumulado": 72609,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 351,
+    "consumido": 365,
+    "excedente": 0,
+    "acumulado": 72609,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 446,
+    "excedente": 0,
+    "acumulado": 72609,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 433,
+    "consumido": 402,
+    "excedente": 31,
+    "acumulado": 72640,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 369,
+    "consumido": 370,
+    "excedente": 0,
+    "acumulado": 72640,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 346,
+    "consumido": 285,
+    "excedente": 61,
+    "acumulado": 72701,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 466,
+    "consumido": 421,
+    "excedente": 45,
+    "acumulado": 72746,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 252,
+    "excedente": 120,
+    "acumulado": 72866,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 403,
+    "consumido": 443,
+    "excedente": 0,
+    "acumulado": 72866,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 411,
+    "excedente": 0,
+    "acumulado": 72866,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 330,
+    "excedente": 125,
+    "acumulado": 72991,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 395,
+    "excedente": 82,
+    "acumulado": 73073,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 462,
+    "consumido": 330,
+    "excedente": 132,
+    "acumulado": 73205,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 358,
+    "excedente": 110,
+    "acumulado": 73315,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 287,
+    "excedente": 113,
+    "acumulado": 73428,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 276,
+    "excedente": 128,
+    "acumulado": 73556,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 299,
+    "excedente": 21,
+    "acumulado": 73577,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 435,
+    "consumido": 417,
+    "excedente": 18,
+    "acumulado": 73595,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 447,
+    "excedente": 48,
+    "acumulado": 73643,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 408,
+    "consumido": 384,
+    "excedente": 24,
+    "acumulado": 73667,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 267,
+    "excedente": 56,
+    "acumulado": 73723,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 353,
+    "excedente": 31,
+    "acumulado": 73754,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 261,
+    "excedente": 162,
+    "acumulado": 73916,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 307,
+    "consumido": 363,
+    "excedente": 0,
+    "acumulado": 73916,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 339,
+    "consumido": 327,
+    "excedente": 12,
+    "acumulado": 73928,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 498,
+    "consumido": 431,
+    "excedente": 67,
+    "acumulado": 73995,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 345,
+    "excedente": 0,
+    "acumulado": 73995,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 311,
+    "consumido": 267,
+    "excedente": 44,
+    "acumulado": 74039,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 307,
+    "excedente": 143,
+    "acumulado": 74182,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 359,
+    "excedente": 0,
+    "acumulado": 74182,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 262,
+    "excedente": 116,
+    "acumulado": 74298,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 432,
+    "consumido": 408,
+    "excedente": 24,
+    "acumulado": 74322,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 336,
+    "excedente": 113,
+    "acumulado": 74435,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 366,
+    "consumido": 419,
+    "excedente": 0,
+    "acumulado": 74435,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 411,
+    "excedente": 56,
+    "acumulado": 74491,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 406,
+    "consumido": 345,
+    "excedente": 61,
+    "acumulado": 74552,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 450,
+    "consumido": 432,
+    "excedente": 18,
+    "acumulado": 74570,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 334,
+    "consumido": 330,
+    "excedente": 4,
+    "acumulado": 74574,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 362,
+    "consumido": 403,
+    "excedente": 0,
+    "acumulado": 74574,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 388,
+    "consumido": 332,
+    "excedente": 56,
+    "acumulado": 74630,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 256,
+    "excedente": 241,
+    "acumulado": 74871,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 386,
+    "consumido": 324,
+    "excedente": 62,
+    "acumulado": 74933,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 313,
+    "consumido": 375,
+    "excedente": 0,
+    "acumulado": 74933,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 381,
+    "excedente": 103,
+    "acumulado": 75036,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 309,
+    "consumido": 336,
+    "excedente": 0,
+    "acumulado": 75036,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 400,
+    "excedente": 0,
+    "acumulado": 75036,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 337,
+    "consumido": 321,
+    "excedente": 16,
+    "acumulado": 75052,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 477,
+    "consumido": 382,
+    "excedente": 95,
+    "acumulado": 75147,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 343,
+    "excedente": 9,
+    "acumulado": 75156,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 316,
+    "consumido": 426,
+    "excedente": 0,
+    "acumulado": 75156,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 436,
+    "consumido": 345,
+    "excedente": 91,
+    "acumulado": 75247,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 388,
+    "excedente": 54,
+    "acumulado": 75301,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 395,
+    "consumido": 343,
+    "excedente": 52,
+    "acumulado": 75353,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 395,
+    "excedente": 39,
+    "acumulado": 75392,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 297,
+    "excedente": 116,
+    "acumulado": 75508,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 434,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 75508,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 482,
+    "consumido": 293,
+    "excedente": 189,
+    "acumulado": 75697,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 341,
+    "consumido": 355,
+    "excedente": 0,
+    "acumulado": 75697,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 318,
+    "excedente": 31,
+    "acumulado": 75728,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 342,
+    "consumido": 303,
+    "excedente": 39,
+    "acumulado": 75767,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 316,
+    "excedente": 7,
+    "acumulado": 75774,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 301,
+    "consumido": 311,
+    "excedente": 0,
+    "acumulado": 75774,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 275,
+    "excedente": 199,
+    "acumulado": 75973,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 437,
+    "consumido": 377,
+    "excedente": 60,
+    "acumulado": 76033,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 430,
+    "excedente": 56,
+    "acumulado": 76089,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 355,
+    "consumido": 310,
+    "excedente": 45,
+    "acumulado": 76134,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 418,
+    "excedente": 76,
+    "acumulado": 76210,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 356,
+    "excedente": 64,
+    "acumulado": 76274,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 386,
+    "consumido": 304,
+    "excedente": 82,
+    "acumulado": 76356,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 404,
+    "consumido": 433,
+    "excedente": 0,
+    "acumulado": 76356,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 295,
+    "excedente": 34,
+    "acumulado": 76390,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 411,
+    "consumido": 320,
+    "excedente": 91,
+    "acumulado": 76481,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 420,
+    "consumido": 416,
+    "excedente": 4,
+    "acumulado": 76485,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 418,
+    "consumido": 379,
+    "excedente": 39,
+    "acumulado": 76524,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 332,
+    "consumido": 347,
+    "excedente": 0,
+    "acumulado": 76524,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 412,
+    "excedente": 76,
+    "acumulado": 76600,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 333,
+    "consumido": 382,
+    "excedente": 0,
+    "acumulado": 76600,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 461,
+    "consumido": 289,
+    "excedente": 172,
+    "acumulado": 76772,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 483,
+    "consumido": 426,
+    "excedente": 57,
+    "acumulado": 76829,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 444,
+    "excedente": 51,
+    "acumulado": 76880,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 454,
+    "consumido": 342,
+    "excedente": 112,
+    "acumulado": 76992,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 478,
+    "consumido": 396,
+    "excedente": 82,
+    "acumulado": 77074,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 290,
+    "excedente": 82,
+    "acumulado": 77156,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 463,
+    "consumido": 443,
+    "excedente": 20,
+    "acumulado": 77176,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 397,
+    "consumido": 401,
+    "excedente": 0,
+    "acumulado": 77176,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 282,
+    "excedente": 158,
+    "acumulado": 77334,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 434,
+    "excedente": 4,
+    "acumulado": 77338,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 495,
+    "consumido": 317,
+    "excedente": 178,
+    "acumulado": 77516,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 497,
+    "consumido": 346,
+    "excedente": 151,
+    "acumulado": 77667,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 348,
+    "excedente": 94,
+    "acumulado": 77761,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 377,
+    "consumido": 345,
+    "excedente": 32,
+    "acumulado": 77793,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 339,
+    "excedente": 60,
+    "acumulado": 77853,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 376,
+    "consumido": 253,
+    "excedente": 123,
+    "acumulado": 77976,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 386,
+    "excedente": 0,
+    "acumulado": 77976,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 413,
+    "excedente": 0,
+    "acumulado": 77976,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 371,
+    "consumido": 387,
+    "excedente": 0,
+    "acumulado": 77976,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 319,
+    "excedente": 75,
+    "acumulado": 78051,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 494,
+    "consumido": 421,
+    "excedente": 73,
+    "acumulado": 78124,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 449,
+    "consumido": 449,
+    "excedente": 0,
+    "acumulado": 78124,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 297,
+    "excedente": 171,
+    "acumulado": 78295,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 444,
+    "excedente": 41,
+    "acumulado": 78336,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 413,
+    "excedente": 71,
+    "acumulado": 78407,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 375,
+    "excedente": 68,
+    "acumulado": 78475,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 365,
+    "consumido": 398,
+    "excedente": 0,
+    "acumulado": 78475,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 280,
+    "excedente": 147,
+    "acumulado": 78622,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 354,
+    "consumido": 327,
+    "excedente": 27,
+    "acumulado": 78649,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 381,
+    "excedente": 0,
+    "acumulado": 78649,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 303,
+    "consumido": 442,
+    "excedente": 0,
+    "acumulado": 78649,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 365,
+    "excedente": 29,
+    "acumulado": 78678,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 416,
+    "consumido": 308,
+    "excedente": 108,
+    "acumulado": 78786,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 329,
+    "consumido": 422,
+    "excedente": 0,
+    "acumulado": 78786,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 483,
+    "consumido": 276,
+    "excedente": 207,
+    "acumulado": 78993,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 372,
+    "consumido": 317,
+    "excedente": 55,
+    "acumulado": 79048,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 251,
+    "excedente": 196,
+    "acumulado": 79244,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 306,
+    "consumido": 331,
+    "excedente": 0,
+    "acumulado": 79244,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 252,
+    "excedente": 50,
+    "acumulado": 79294,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 350,
+    "consumido": 304,
+    "excedente": 46,
+    "acumulado": 79340,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 321,
+    "excedente": 73,
+    "acumulado": 79413,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 384,
+    "consumido": 274,
+    "excedente": 110,
+    "acumulado": 79523,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 472,
+    "consumido": 383,
+    "excedente": 89,
+    "acumulado": 79612,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 457,
+    "consumido": 449,
+    "excedente": 8,
+    "acumulado": 79620,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 423,
+    "consumido": 379,
+    "excedente": 44,
+    "acumulado": 79664,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 381,
+    "consumido": 299,
+    "excedente": 82,
+    "acumulado": 79746,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 441,
+    "consumido": 322,
+    "excedente": 119,
+    "acumulado": 79865,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 456,
+    "consumido": 429,
+    "excedente": 27,
+    "acumulado": 79892,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 388,
+    "excedente": 0,
+    "acumulado": 79892,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 393,
+    "consumido": 281,
+    "excedente": 112,
+    "acumulado": 80004,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 335,
+    "excedente": 44,
+    "acumulado": 80048,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 483,
+    "consumido": 319,
+    "excedente": 164,
+    "acumulado": 80212,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 331,
+    "consumido": 250,
+    "excedente": 81,
+    "acumulado": 80293,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 440,
+    "consumido": 325,
+    "excedente": 115,
+    "acumulado": 80408,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 390,
+    "consumido": 404,
+    "excedente": 0,
+    "acumulado": 80408,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 443,
+    "consumido": 373,
+    "excedente": 70,
+    "acumulado": 80478,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 367,
+    "excedente": 64,
+    "acumulado": 80542,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 426,
+    "consumido": 281,
+    "excedente": 145,
+    "acumulado": 80687,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 352,
+    "consumido": 395,
+    "excedente": 0,
+    "acumulado": 80687,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 479,
+    "consumido": 363,
+    "excedente": 116,
+    "acumulado": 80803,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 347,
+    "excedente": 47,
+    "acumulado": 80850,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 324,
+    "consumido": 346,
+    "excedente": 0,
+    "acumulado": 80850,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 394,
+    "consumido": 253,
+    "excedente": 141,
+    "acumulado": 80991,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 383,
+    "consumido": 357,
+    "excedente": 26,
+    "acumulado": 81017,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 272,
+    "excedente": 107,
+    "acumulado": 81124,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 375,
+    "excedente": 0,
+    "acumulado": 81124,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 486,
+    "consumido": 329,
+    "excedente": 157,
+    "acumulado": 81281,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 484,
+    "consumido": 287,
+    "excedente": 197,
+    "acumulado": 81478,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 419,
+    "consumido": 410,
+    "excedente": 9,
+    "acumulado": 81487,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 314,
+    "consumido": 299,
+    "excedente": 15,
+    "acumulado": 81502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 414,
+    "excedente": 0,
+    "acumulado": 81502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 428,
+    "excedente": 0,
+    "acumulado": 81502,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 305,
+    "excedente": 51,
+    "acumulado": 81553,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 359,
+    "consumido": 305,
+    "excedente": 54,
+    "acumulado": 81607,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 401,
+    "consumido": 449,
+    "excedente": 0,
+    "acumulado": 81607,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 474,
+    "consumido": 399,
+    "excedente": 75,
+    "acumulado": 81682,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 427,
+    "consumido": 445,
+    "excedente": 0,
+    "acumulado": 81682,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 413,
+    "consumido": 351,
+    "excedente": 62,
+    "acumulado": 81744,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 356,
+    "consumido": 408,
+    "excedente": 0,
+    "acumulado": 81744,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 370,
+    "consumido": 392,
+    "excedente": 0,
+    "acumulado": 81744,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 478,
+    "consumido": 299,
+    "excedente": 179,
+    "acumulado": 81923,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 423,
+    "excedente": 0,
+    "acumulado": 81923,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 423,
+    "excedente": 15,
+    "acumulado": 81938,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 447,
+    "consumido": 416,
+    "excedente": 31,
+    "acumulado": 81969,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 485,
+    "consumido": 359,
+    "excedente": 126,
+    "acumulado": 82095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 322,
+    "excedente": 0,
+    "acumulado": 82095,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 405,
+    "consumido": 306,
+    "excedente": 99,
+    "acumulado": 82194,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 349,
+    "consumido": 388,
+    "excedente": 0,
+    "acumulado": 82194,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 444,
+    "consumido": 344,
+    "excedente": 100,
+    "acumulado": 82294,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 362,
+    "consumido": 250,
+    "excedente": 112,
+    "acumulado": 82406,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 442,
+    "consumido": 411,
+    "excedente": 31,
+    "acumulado": 82437,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 389,
+    "excedente": 0,
+    "acumulado": 82437,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 431,
+    "consumido": 409,
+    "excedente": 22,
+    "acumulado": 82459,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 378,
+    "consumido": 288,
+    "excedente": 90,
+    "acumulado": 82549,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 323,
+    "consumido": 358,
+    "excedente": 0,
+    "acumulado": 82549,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 379,
+    "consumido": 397,
+    "excedente": 0,
+    "acumulado": 82549,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 325,
+    "consumido": 353,
+    "excedente": 0,
+    "acumulado": 82549,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 399,
+    "consumido": 329,
+    "excedente": 70,
+    "acumulado": 82619,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 455,
+    "consumido": 260,
+    "excedente": 195,
+    "acumulado": 82814,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 367,
+    "consumido": 279,
+    "excedente": 88,
+    "acumulado": 82902,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 374,
+    "consumido": 317,
+    "excedente": 57,
+    "acumulado": 82959,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 345,
+    "consumido": 427,
+    "excedente": 0,
+    "acumulado": 82959,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 302,
+    "consumido": 354,
+    "excedente": 0,
+    "acumulado": 82959,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 415,
+    "consumido": 316,
+    "excedente": 99,
+    "acumulado": 83058,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 410,
+    "consumido": 280,
+    "excedente": 130,
+    "acumulado": 83188,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 308,
+    "consumido": 295,
+    "excedente": 13,
+    "acumulado": 83201,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 320,
+    "consumido": 336,
+    "excedente": 0,
+    "acumulado": 83201,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 368,
+    "excedente": 105,
+    "acumulado": 83306,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 473,
+    "consumido": 390,
+    "excedente": 83,
+    "acumulado": 83389,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 445,
+    "consumido": 293,
+    "excedente": 152,
+    "acumulado": 83541,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 481,
+    "consumido": 396,
+    "excedente": 85,
+    "acumulado": 83626,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 344,
+    "consumido": 408,
+    "excedente": 0,
+    "acumulado": 83626,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 365,
+    "consumido": 347,
+    "excedente": 18,
+    "acumulado": 83644,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 488,
+    "consumido": 423,
+    "excedente": 65,
+    "acumulado": 83709,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 491,
+    "consumido": 337,
+    "excedente": 154,
+    "acumulado": 83863,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 405,
+    "consumido": 350,
+    "excedente": 55,
+    "acumulado": 83918,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 396,
+    "consumido": 410,
+    "excedente": 0,
+    "acumulado": 83918,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 325,
+    "consumido": 425,
+    "excedente": 0,
+    "acumulado": 83918,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 438,
+    "consumido": 292,
+    "excedente": 146,
+    "acumulado": 84064,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 360,
+    "consumido": 290,
+    "excedente": 70,
+    "acumulado": 84134,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 364,
+    "consumido": 424,
+    "excedente": 0,
+    "acumulado": 84134,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 343,
+    "consumido": 272,
+    "excedente": 71,
+    "acumulado": 84205,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 400,
+    "consumido": 287,
+    "excedente": 113,
+    "acumulado": 84318,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 402,
+    "consumido": 331,
+    "excedente": 71,
+    "acumulado": 84389,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 361,
+    "consumido": 250,
+    "excedente": 111,
+    "acumulado": 84500,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 376,
+    "consumido": 350,
+    "excedente": 26,
+    "acumulado": 84526,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 335,
+    "consumido": 262,
+    "excedente": 73,
+    "acumulado": 84599,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 305,
+    "consumido": 400,
+    "excedente": 0,
+    "acumulado": 84599,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 465,
+    "consumido": 278,
+    "excedente": 187,
+    "acumulado": 84786,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 467,
+    "consumido": 320,
+    "excedente": 147,
+    "acumulado": 84933,
+    "data": "2025-06-16"
+  },
+  {
+    "userId": 1,
+    "produzido": 468,
+    "consumido": 334,
+    "excedente": 134,
+    "acumulado": 85067,
+    "data": "2025-06-16"
+  }
+]

@@ -1,0 +1,55 @@
+login:    //
+
+{
+  "username": "cliente",
+  "password": "1234"
+}
+
+
+rotas:
+
+Registar painel:   http://localhost:3000/api/painel/registar
+
+{
+  "localizacao": "Lisboa",
+  "potencia": 5000
+}
+
+
+
+Login tecnico: 
+
+http://localhost:3000/api/auth/login
+
+{
+  "username": "tecnico",
+  "password": "1234"
+}
+
+
+
+certificado:
+
+http://localhost:3000/api/painel/emitir-certificado
+bearer <tokentecnico>
+contenttype: multipart/form-data
+
+Body: Form-data 
+
+
+
+------------------------Sprint3------------------------------------------------
+node fakeApi.js
+
+login gestor:
+http://localhost:3000/api/painel/monitorizar/1
+
+{
+  "username": "gestor",
+  "password": "1234"
+}
+
+
+
+Get: http://localhost:4000/producao/1
+
