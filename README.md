@@ -3,7 +3,7 @@
 
 # ☀Sistema de Gestão de Produção e Créditos de Energia Solar
 
-Este projeto foi desenvolvido no âmbito da UC Programação no Servidor. Está organizado por sprints funcionais que refletem as várias etapas do desenvolvimento.
+Este projeto de grupo foi desenvolvido no âmbito da UC Programação no Servidor. Está organizado por sprints funcionais que refletem as várias etapas do desenvolvimento.
 
 ---
 
